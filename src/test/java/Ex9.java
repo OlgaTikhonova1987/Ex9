@@ -27,7 +27,6 @@ public class Ex9 {
         String location1 = "https://playground.learnqa.ru/ajax/api/get_secret_password_homework";
         String location2 = "https://playground.learnqa.ru/ajax/api/check_auth_cookie";
         Map<String, Object> paramGetCookie = new HashMap<>();
-        Map<String, Object> paramCheckCookie = new HashMap<>();
         final String  answerText = "You are NOT authorized";
         String answer = answerText;
 
